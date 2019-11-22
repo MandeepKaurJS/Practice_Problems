@@ -6,9 +6,13 @@
             //Serialize javascript object to json
             var jsonString=JSON.stringify(product);
             document.write(jsonString);
-            document.write("</br>");
+            document.write("<br/>");
             //deseialize 
-            var str="";
+            var str='{"id":101,"name":"Mandeep Kaur","Price":101}';
+            var product2=JSON.parse(str);
+            document.write('PRoduct ID is'+product2.id+'<br/');
+            document.write('PRoduct Name is'+product2.name+'<br/');
+            document.write('PRoduct Price is'+product2.Price+'<br/');
         </script>
     </head>
     <body>
