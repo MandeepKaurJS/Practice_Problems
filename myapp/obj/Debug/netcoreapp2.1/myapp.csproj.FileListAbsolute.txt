@@ -1,0 +1,11 @@
+C:\Users\VrinMan Dulay\Desktop\WEBAPIS\myapp\bin\Debug\netcoreapp2.1\myapp.deps.json
+C:\Users\VrinMan Dulay\Desktop\WEBAPIS\myapp\bin\Debug\netcoreapp2.1\myapp.runtimeconfig.json
+C:\Users\VrinMan Dulay\Desktop\WEBAPIS\myapp\bin\Debug\netcoreapp2.1\myapp.runtimeconfig.dev.json
+C:\Users\VrinMan Dulay\Desktop\WEBAPIS\myapp\bin\Debug\netcoreapp2.1\myapp.dll
+C:\Users\VrinMan Dulay\Desktop\WEBAPIS\myapp\bin\Debug\netcoreapp2.1\myapp.pdb
+C:\Users\VrinMan Dulay\Desktop\WEBAPIS\myapp\obj\Debug\netcoreapp2.1\myapp.csprojAssemblyReference.cache
+C:\Users\VrinMan Dulay\Desktop\WEBAPIS\myapp\obj\Debug\netcoreapp2.1\myapp.csproj.CoreCompileInputs.cache
+C:\Users\VrinMan Dulay\Desktop\WEBAPIS\myapp\obj\Debug\netcoreapp2.1\myapp.AssemblyInfoInputs.cache
+C:\Users\VrinMan Dulay\Desktop\WEBAPIS\myapp\obj\Debug\netcoreapp2.1\myapp.AssemblyInfo.cs
+C:\Users\VrinMan Dulay\Desktop\WEBAPIS\myapp\obj\Debug\netcoreapp2.1\myapp.dll
+C:\Users\VrinMan Dulay\Desktop\WEBAPIS\myapp\obj\Debug\netcoreapp2.1\myapp.pdb
