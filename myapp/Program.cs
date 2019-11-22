@@ -10,8 +10,13 @@ namespace myapp
             var product=new Product{ID=100,Name="Mandeep Kaur",Price=99.9};
         //Serialize the product object to json
         var jsonstring=JsonConvert.SerializeObject(product);
-        Console.WriteLine(jsonstring);
-
+        System.Console.WriteLine(jsonstring);
+        //deserialize the product to jsaon string
+        var product2=JsonConvert.DeserializeObject<Product>(jsonstring)
+        System.Console.WriteLine($"Teh Prodcut ID: {product2.ID}");
+        System.Console.WriteLine($"Teh Prodcut NAme: {product2.Name}");
+        System.Console.WriteLine($"Teh Prodcut PRice: {product2.Price}");
+         
         }
     }
     class Product{
